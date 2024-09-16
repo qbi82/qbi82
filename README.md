@@ -6,14 +6,14 @@ Welcome to my GitHub profile! I'm a third-year Computer Science student at the L
 ## 🚀 About Me
 
 - 🔍 **Cybersecurity Enthusiast:** I am passionate about keeping systems secure and have been delving into various aspects of cybersecurity, including network security, incident response, and penetration testing.
-- 💻 **Programming:** My programming skills include Python, C++, Java, Bash, and PowerShell. I love automating tasks and creating scripts that make life easier.
+- 💻 **Programming:** My programming skills include Python, C++, Java, Bash, and PowerShell, JavaScript, HTML, CSS. I love automating tasks and creating scripts that make life easier.
 - 🌐 **Network Protocols:** I have a solid understanding of TCP/IP protocols and have completed the Cisco CCNA course to enhance my networking knowledge.
 - 🎓 **Education:** Currently, I am in my third year of Computer Science at the Lublin University of Technology. I'm always looking for opportunities to apply what I learn in real-world projects.
 - 🎮 **Hobbies:** Outside of coding, I enjoy playing football, going to the gym, and playing chess and squash. I also love setting up and managing game servers on Linux systems.
 
 ## 🛠️ My Skillset
 
-- **Languages:** Python, C++, Java, Bash, PowerShell
+- **Languages:** Python, C++, Java, Bash, PowerShell, JavaScript, HTML, CSS
 - **Operating Systems:** Linux, Windows
 - **Networking:** TCP/IP, Cisco CCNA
 - **Cybersecurity:** Incident response, basic penetration testing, security analysis
