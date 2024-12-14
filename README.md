@@ -23,6 +23,9 @@ Welcome to my GitHub profile! I'm a third-year Computer Science student at the L
 <br>**LanguageCert Level 2 (C1):**
 - Certificate in ESOL International (Listening, Reading) - November 2024
 
+You can view all my certificates [here](https://github.com/qbi82/CERTIFICATES).
+
+
 ## 🛠️ My Skillset
 
 - **Languages:** Python, C++, Java, Bash, PowerShell, JavaScript, HTML, CSS
