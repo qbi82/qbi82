@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a third-year Computer Science student at the L
 
 ## 🏅 Certifications
 **Eksperckie Centrum Szkolenia Cyberbezpieczeństwa:**
-- Academy of Cybersecurity - CYBER_MIL program, November 16, 2024
-- Windows System Security - CYBER_MIL program, December 14, 2024
+- Academy of Cybersecurity - CYBER_MIL program, November 16, 2024.
+- Windows System Security - CYBER_MIL program, December 14, 2024.
 **Cisco Networking Academy:**
 - Networking Basics - November 2024
 - Networking Devices and Initial Configuration - November 2024
