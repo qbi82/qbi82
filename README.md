@@ -11,6 +11,18 @@ Welcome to my GitHub profile! I'm a third-year Computer Science student at the L
 - 🎓 **Education:** Currently, I am in my third year of Computer Science at the Lublin University of Technology. I'm always looking for opportunities to apply what I learn in real-world projects.
 - 🎮 **Hobbies:** Outside of coding, I enjoy playing football, going to the gym, and playing chess and squash. I also love setting up and managing game servers on Linux systems.
 
+## 🏅 Certifications
+**Eksperckie Centrum Szkolenia Cyberbezpieczeństwa:**
+- Academy of Cybersecurity - CYBER_MIL program, November 16, 2024
+- Windows System Security - CYBER_MIL program, December 14, 2024
+**Cisco Networking Academy:**
+- Networking Basics - November 2024
+- Networking Devices and Initial Configuration - November 2024
+- Introduction to Cybersecurity - October 2024
+- Introduction to Internet of Things - November 2024
+**LanguageCert Level 2 (C1):**
+- Certificate in ESOL International (Listening, Reading) - November 2024
+
 ## 🛠️ My Skillset
 
 - **Languages:** Python, C++, Java, Bash, PowerShell, JavaScript, HTML, CSS
